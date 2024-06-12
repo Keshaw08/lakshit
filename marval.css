@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap");
+body {
+  background-image: url(https://e0.pxfuel.com/wallpapers/484/627/desktop-wallpaper-marvel-cinematic-universe-logo-marvel-mcu.jpg);
+  color: white;
+}
+.maindiv {
+  text-align: center;
+  justify-content: space-around;
+  background-color: aquamarine;
+  font-size: 2rem;
+}
+.hdiv {
+  font-size: 2rem;
+  font-family: "Dancing Script", cursive;
+}
+.jdiv {
+  text-align: center;
+  justify-content: space-around;
+}
+.ldiv {
+  text-align: center;
+  justify-content: space-around;
+  background-color: aqua;
+  color: black;
+}
+.tdiv {
+  background-color: cornflowerblue;
+}
+.mdiv {
+  text-align: center;
+  justify-content: center;
+}
+.cdiv {
+  text-align: center;
+  justify-content: center;
+}
+.idiv {
+  text-align: center;
+  justify-content: center;
+}
+.odiv {
+  text-align: center;
+  justify-content: center;
+}
+.zdiv {
+  text-align: center;
+  justify-content: center;
+}
+.xdiv {
+  text-align: center;
+  justify-content: center;
+}
