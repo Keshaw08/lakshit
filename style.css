@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap");
 body {
   background-color: #615efc;
-  padding: 5%;
+  padding: 0%;
   margin: 0%;
 }
 .adiv {
@@ -12,6 +12,8 @@ body {
   text-align: center;
   font-size: 2.9rem;
   font-family: "Dancing Script", cursive;
+  padding: 5%;
+  padding-bottom: 2%;
 }
 .bdiv {
   height: 30rem;
@@ -61,7 +63,6 @@ button {
   }
 }
 
-
-.adiv p{
+.adiv p {
   font-size: 2.5rem;
 }
